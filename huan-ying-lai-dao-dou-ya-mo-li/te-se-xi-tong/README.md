@@ -1,7 +1,6 @@
 ---
-description: http://www.douyaml.com
-cover: .gitbook/assets/080e11deb19124213855f9b958d99ff5a012f5db4.jpg
-coverY: 29.397333333333336
+cover: ../../.gitbook/assets/common_38_icon.png
+coverY: 0
 layout:
   cover:
     visible: true
@@ -15,8 +14,8 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
-# 🔥 欢迎来到豆芽魔力
+# 📕 特色系统
 
