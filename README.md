@@ -20,7 +20,7 @@ layout:
 
 # 🔥 欢迎来到元素魔力
 
-注册网页：[www.yuanssumoli.com/reg.html](https://www.yuanssumoli.com/reg.html)\
+注册网页：[http://www.yuanssumoli.com/reg.html](http://www.yuanssumoli.com/reg.html)\
 论坛：\
 客户端下载：[https://pan.baidu.com/s/1g4\_1D38ir22QjCqiGMCsaQ?pwd=tdfk](https://pan.baidu.com/s/1g4_1D38ir22QjCqiGMCsaQ?pwd=tdfk)
 
