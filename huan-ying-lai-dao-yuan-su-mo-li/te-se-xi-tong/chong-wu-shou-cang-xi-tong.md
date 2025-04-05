@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# ❗ 宠物收藏系统
+# 🚩 宠物收藏系统
 
 <mark style="color:green;">**本服重新设计了宠物收藏系统，使其的能力有增有减，请玩家自行取舍。**</mark>\ <mark style="color:green;">**在主线任务或各种活动会提供常见部分的宠物魔物结晶，但是不常见和稀有的所有宠物需要由召唤师玩家捕捉，用以平衡完全不玩召唤师和只玩召唤师的玩家。玩家可以通过**</mark><mark style="color:red;">**本服特色拍卖系统**</mark><mark style="color:green;">**进行魔物结晶的交易或直接交易宠物**</mark>
 
