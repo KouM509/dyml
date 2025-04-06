@@ -59,7 +59,6 @@
   * [📕 游戏指南](huan-ying-lai-dao-yuan-su-mo-li/you-xi-zhi-nan/README.md)
     * [🔰 游戏心得](huan-ying-lai-dao-yuan-su-mo-li/you-xi-zhi-nan/you-xi-xin-de.md)
     * [游戏命令](huan-ying-lai-dao-yuan-su-mo-li/you-xi-zhi-nan/you-xi-ming-ling.md)
-    * [升级所需经验表EXP](huan-ying-lai-dao-yuan-su-mo-li/you-xi-zhi-nan/sheng-ji-suo-xu-jing-yan-biao-exp.md)
     * [1级宠物捕捉点](huan-ying-lai-dao-yuan-su-mo-li/you-xi-zhi-nan/1-ji-chong-wu-bu-zhuo-dian.md)
     * [人物技能汇总](huan-ying-lai-dao-yuan-su-mo-li/you-xi-zhi-nan/ren-wu-ji-neng-hui-zong.md)
   * [📙 任务攻略](huan-ying-lai-dao-yuan-su-mo-li/ren-wu-gong-le/README.md)
