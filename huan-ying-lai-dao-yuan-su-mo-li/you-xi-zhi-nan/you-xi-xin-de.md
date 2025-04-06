@@ -2,7 +2,7 @@
 
 <mark style="color:purple;">**设定方面：**</mark>
 
-[宠物收藏系统 ](../te-se-xi-tong/chong-wu-shou-cang-xi-tong.md) |  [翅膀系统](../te-se-xi-tong/chi-bang-pei-yu-xi-tong.md)  |  [万能采集](../te-se-xi-tong/wan-neng-cai-ji.md)  |  [活动](../you-xi-ji-chu-she-zhi-ji-qi-xiang-guan/huo-dong-an-pai.md)  |  [每日任务](../te-se-xi-tong/mei-ri-ren-wu.md)  |  [游戏命令](you-xi-ming-ling.md)  |  [无尽之塔](wu-jin-zhi-ta.md)  | [ 血魔池](../te-se-xi-tong/xue-mo-chi-zhan-dou-hou-zi-dong-hui-fu.md)  |  [坐骑](../te-se-xi-tong/zuo-qi-pei-yu-xi-tong.md)&#x20;
+[宠物收藏系统 ](../te-se-xi-tong/chong-wu-shou-cang-xi-tong.md) |  [翅膀系统](../te-se-xi-tong/chi-bang-pei-yu-xi-tong.md)  |  [万能采集](../te-se-xi-tong/wan-neng-cai-ji.md)  |  [活动](../you-xi-ji-chu-she-zhi-ji-qi-xiang-guan/huo-dong-an-pai.md)  |  [每日任务](../te-se-xi-tong/mei-ri-ren-wu.md)  |  [游戏命令](you-xi-ming-ling.md)  |  [无尽之塔](broken-reference)  | [ 血魔池](../te-se-xi-tong/xue-mo-chi-zhan-dou-hou-zi-dong-hui-fu.md)  |  [坐骑](../te-se-xi-tong/zuo-qi-pei-yu-xi-tong.md)&#x20;
 
 <mark style="color:orange;">**建议事项：**</mark>
 
